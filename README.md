@@ -1,0 +1,1 @@
+Hangman Game made with Java, this game is kind of didactic, where you can set the word to be guessed and introduce the name of the player, when the player finishes the game, it will be asked if he/she wants to play again
